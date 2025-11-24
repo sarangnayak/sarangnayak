@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on<br>Building scalable Java + Spring Boot services.<br>I’m looking to collaborate on<br>High-performance backend and full-stack projects.<br> I’m looking for help with<br>Deepening distributed systems and DevOps skills.<br>I’m currently learning<br>Cloud, DevOps, and advanced system design.<br> Ask me about<br>Backend architecture, APIs, and performance tuning.<br> Fun fact<br>I optimize everything from code to daily habits.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pAwyv7UMrk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nayaksarang/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18607394) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nayaksarangbala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarangnayak269@gmail.com) 
