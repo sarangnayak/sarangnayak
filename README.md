@@ -1,6 +1,6 @@
 # About Me:
 I’m a full stack developer who enjoys building practical and reliable systems. I work mostly with Java, Spring Boot, Node.js, and React, and I like creating clean APIs, improving backend performance, and understanding how different parts of a system interact.
-Recently, I’ve been focusing more on cloud, DevOps, and deployment pipelines. I’m learning Docker, CI/CD, and better ways to ship software that’s stable, scalable, and easy to maintain. I’m also interested in distributed systems and how real-world services handle growth and complexity.
+Recently, I’ve been focusing more on cloud, DevOps, and deployment pipelines. I’m learning Docker, CI/CD, and better ways to ship software that’s stable, scalable, and easy to maintain. I’m also interested in distributed systems and how real world services handle growth and complexity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nayaksarang/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18607394) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nayaksarangbala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarangnayak269@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pAwyv7UMrk)
